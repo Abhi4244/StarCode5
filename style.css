@@ -1,0 +1,63 @@
+div{
+			border: 3px solid cyan;
+		}
+
+      p.c{
+   direction: rtl ;
+     }
+
+      p.a {
+  word-spacing: 25px;
+}
+
+ p.b {
+  word-spacing: 1px;
+}
+
+ p.d {
+  letter-spacing: 15px;
+}
+
+ p.e {
+  letter-spacing: 1px;
+}
+
+div.f{
+
+border: 5px blue solid;
+}
+
+p.z{
+	line-height: normal;
+}
+
+p.y{
+	line-height: 50px;
+}
+
+p.x{
+	line-height:70%;
+}
+
+span{
+	color: magenta;
+}
+
+body{
+	background-color: grey;
+}
+
+h2{
+	text-transform: uppercase;
+	text-decoration: underline;
+	color: yellow;
+}
+ p{
+
+ 	font-size: 15px;
+ 	color: white;
+ }
+
+ figure{
+ 	border: 2px solid beige;
+ }
